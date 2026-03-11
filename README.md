@@ -1,3 +1,10 @@
+
+## 📷 Dashboard Preview
+
+<p align="center">
+<img src="dashboard.png" width="90%">
+</p>
+
 # 📊 Amazon Sales Analysis Dashboard
 
 <p align="center">
@@ -106,11 +113,7 @@ This makes the dashboard **fully interactive and user-friendly**.
 
 ---
 
-## 📷 Dashboard Preview
 
-<p align="center">
-<img src="dashboard.png" width="90%">
-</p>
 
 ---
 
