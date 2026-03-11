@@ -129,8 +129,8 @@ This makes the dashboard **fully interactive and user-friendly**.
 
 Amazon-Sales-Analysis-PowerBI  
 │  
-├── Amazon_Sales_Dashboard.pbix  
-├── dataset.xlsx  
+├── Amazon_Sales.pbix  
+├── Amazon_Combined_Data.xlsx 
 ├── dashboard.png  
 └── README.md  
 
